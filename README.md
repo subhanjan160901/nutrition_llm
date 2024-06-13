@@ -1,5 +1,9 @@
-# Retrieval Augmented Generation(RAG) with LlamaIndex
-This project is a Streamlit web application that allows users to ask questions about the contents of a set of documents. It leverages OpenAI's GPT-3.5-turbo model for natural language processing and the llama_index library for indexing and querying document contents.
+# Nutrition QnA Chatbot
+I have built a web application that allows users to ask anything about everyday nutrition, dietary guidelines, impact of various foods on our health system, etc. The data has been collected from the manual "DIETARY GUIDELINES FOR INDIANS" which is available on the official website of National Institute of Nutrition (https://www.nin.res.in). 
+
+In this document, food-related approaches, both in qualitative and quantitative terms, have been incorporated. The guidelines are consistent with the goals set in national policies on Agriculture, Health and Nutrition. Emphasis is on positive recommendations which can maximize protective effects through use of a variety of foods in tune with traditional habits. This can help to formulate health promoting recipes and diets which are region- and culture- specific. 
+
+Our application leverages OpenAI's GPT-3.5-turbo model for natural language processing and the Llamaindex framework for indexing and querying document contents.
 
 ## Features
 
